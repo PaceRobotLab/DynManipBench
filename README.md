@@ -67,4 +67,20 @@ python scripts/verify_release.py /path/to/DynManipBench-v1.0-core.zip /path/to/S
 
 ## License
 
-The final public-data and code licenses must be selected before release. Do not publish the dataset until `LICENSE.md` and the release metadata contain the intended terms.
+DynManipBench uses separate licenses for the dataset/documentation and the software.
+
+### Dataset and documentation
+
+The DynManipBench dataset, metadata, benchmark documentation, and associated data files are licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+https://creativecommons.org/licenses/by/4.0/
+
+You may share and adapt the dataset, including for commercial purposes, provided that appropriate attribution is given and changes are indicated.
+
+### Software
+
+Source code and scripts in this repository are licensed under the **BSD 3-Clause License**.
+
+See `LICENSE.md` for the complete license terms.
+
+When using DynManipBench in scholarly work, please cite the DynManipBench paper and the underlying dissertation as described in `CITATION.cff`.
