@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use DynManipBench, please cite the dataset paper and the underlying dissertation."
+title: "DynManipBench"
+type: dataset
+authors:
+  - family-names: Liang
+    given-names: Yaobin
+  - family-names: Benjamin
+    given-names: D. Paul
+version: "1.0"
+date-released: "YYYY-MM-DD"
+repository-code: "https://github.com/PaceRobotLab/DynManipBench"
+url: "https://github.com/PaceRobotLab/DynManipBench/releases"
+preferred-citation:
+  type: article
+  title: "DynManipBench: Reconstruction and Validation of a Large-Scale Robot Motion Benchmark for Dynamic Environments"
+  authors:
+    - family-names: Liang
+      given-names: Yaobin
+    - family-names: Benjamin
+      given-names: D. Paul
+  year: "2026"
+references:
+  - type: thesis
+    title: "High-dimensional Spaces Motion Planning for Robotic Arm in Dynamic Environment"
+    authors:
+      - family-names: Liang
+        given-names: Yaobin
+    year: "2025"
+    institution:
+      name: "Pace University"

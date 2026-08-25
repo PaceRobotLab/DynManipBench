@@ -1,0 +1,5 @@
+asset_name,required,purpose,generated_from,notes
+DynManipBench-v1.0.0-core.zip,yes,canonical downloadable benchmark,raw archives + metadata + docs + reconstruction scripts,Primary paper-linked download
+SHA256SUMS.txt,yes,release asset verification,core zip,Upload alongside release asset
+DynManipBench-v1.0.0-hdf5.tar.gz,no,preconverted trajectory store,core benchmark,Convenience asset
+DynManipBench-v1.0.0-training-examples.tar.gz,no,precomputed supervised examples,core benchmark,Convenience asset
