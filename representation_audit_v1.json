@@ -1,0 +1,27 @@
+{
+  "audit_name": "trajectory_representation_audit_v1",
+  "sample_records": 300,
+  "matched_records": 300,
+  "canonical_rows": {
+    "min": 4.0,
+    "median": 6.0,
+    "mean": 7.1033333333333335,
+    "max": 23.0
+  },
+  "processed_rows": {
+    "min": 16.0,
+    "median": 40.0,
+    "mean": 41.876666666666665,
+    "max": 87.0
+  },
+  "same_row_count_fraction": 0.0,
+  "start_endpoint_error_max_rad": 1.9562141122811702e-07,
+  "goal_endpoint_error_max_rad": 1.9013513304406594e-07,
+  "processed_to_canonical_row_ratio": {
+    "min": 1.9545454545454546,
+    "median": 6.8,
+    "mean": 6.671863416634516,
+    "max": 14.75
+  },
+  "interpretation": "dynamic_v1 is a derived resampled representation; canonical .configs files are authoritative for historical waypoint counts."
+}
